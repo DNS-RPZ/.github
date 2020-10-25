@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: My Privacy DNS FAQ
+    url: https://www.mypdns.org/ponder/
+    about: Please ask and answer questions here.
+  - name: Other issues
+    url: https://www.mypdns.org/maniphest/task/edit/form/1/
+    about: If you have a issue or found a bug this is the place.
